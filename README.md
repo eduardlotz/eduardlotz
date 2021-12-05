@@ -1,3 +1,3 @@
 ## 👋 Hi, I’m @eduardlotz
-- 👀 I’m interested in modern web development & design
-- 🌱 I’m currently learning react & typescript
+- 👀 Frontend developer with a passion for UI Design
+- 👨‍💻 React + Typescript
